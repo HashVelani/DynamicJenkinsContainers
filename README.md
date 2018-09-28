@@ -18,7 +18,7 @@ This behaviour will be driven by the Master Jenkins node installed on the Vagran
 |                                                                                                  |
 |   +------------------------------------------------------------------------------------------+   |
 |   |                                                                                          |   |
-|   |  Docker Container                                                                      |   |
+|   |  Docker Container                                                                        |   |
 |   |                                                                                          |   |
 |   |     +-----------------------------------------------------------------------------+      |   |
 |   |     |                                                                             |      |   |
